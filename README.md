@@ -15,7 +15,7 @@
 # **Aplicação Web** 💻
 
 <p align="center">
-  <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.mp4" width="1400px"/>
+  <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.gif" width="1400px"/>
 </p>
 
 ## 🚀 Tecnologias utilizadas
