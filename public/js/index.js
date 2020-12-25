@@ -1,6 +1,6 @@
 //Insira a sua chave da API do coinmarketcap para poder consultar os dados da API, acesse https://coinmarketcap.com/api/ para mais explicações
 var key = {
-  apiKey: "2b997aa1-58f4-4453-95dc-0b52b32f31d3"
+  apiKey: ''
 };
 
 //Função para formatar a porcentagem de variação da moeda
