@@ -1,0 +1,33 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap';
+
+:root {
+  --primary-color: #39BF99;
+  --font-color: #0A3640;
+  --background-color: #49F2C2;
+  --positive-color: #308C7B;
+  --negative-color: #D94A3D;
+  font-size: 62.5%;
+  font-family: "Rubik", sans-serif;
+}
+
+.table-coins{
+  width: inherit;
+  padding: 4rem;
+  background-color: white;
+  border-radius: 0.8rem;
+  box-shadow: 4px 4px 0px 8px rgba(0, 0, 0, 0.45);
+}
+
+.column,
+.row {
+  color: var(--font-color);
+  font: 700 1.8rem/1.2 "Rubik", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 1rem;
+  border-bottom: 0.8px solid var(--font-color);
+}
+
+.column {
+  font: 800 2.2rem/1.1 "Rubik", sans-serif;
+}

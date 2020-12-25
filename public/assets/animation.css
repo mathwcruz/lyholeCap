@@ -1,0 +1,51 @@
+/* efeito que faz vir da direita em direção à esquerda */
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-up {
+  animation-name: up;
+  animation-duration: 1s;
+  animation-fill-mode: backwards;
+}
+
+/* efeito que faz surgir da esquerda em direção a direita */
+@keyframes right {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-rigth {
+  animation-name: right;
+  animation-duration: 1s;
+}
+
+/* efeito para surgir */
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-appear {
+  animation-name: appear;
+  animation-duration: 1.5s;
+  animation-fill-mode: backwards;
+}
