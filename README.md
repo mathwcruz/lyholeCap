@@ -8,17 +8,17 @@
 
 <br>
 
-##  **<p> <h2  align="center"> Aplicação front end 📟 👨‍💻 </h2> </p>**
+##  **<p> <h2  align="center">Front end application 📟 👨‍💻 </h2> </p>**
 
-## <p> <h2 align="center">LyholeCap é uma aplicação desenvolvida com o intuito de proporcionar conhecimento acerca do mercado de criptoativos ₿</h2> </p>
+## <p> <h2 align="center">LyholeCap is an application developed with the aim of providing knowledge about the cryptocurrency market ₿</h2> </p>
 
-# **Aplicação Web** 💻
+# **Web Layout** 💻
 
 <p align="center">
   <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.gif" width="1400px"/>
 </p>
 
-## 🚀 Tecnologias utilizadas:
+## 🚀 Technologies used:
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
@@ -27,8 +27,8 @@
 </p>
 
 - **Coinmarketcap API** - https://coinmarketcap.com/api/ ✔️
-- **Moesif Origin & CORS Changer Plugin** (Você precisa liberar o acesso ao CORS) Segue o link para um plugin do Google Chrome que auxilia nessa tarefa - https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc ✔️
+- **Moesif Origin & CORS Changer Plugin** (You need to release access to CORS) Here's a link to a Google Chrome plugin that helps with this task - https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc ✔️
 
- ## **<p align="center">Iniciando a caminhada para poder participar da maratona nesse mundo da programação 🏃‍</p>**
+ ## **<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>**
 
- ### <p> <h2 align="center"> Mais uma aplicação realizada por Matheus da Cruz 👨‍💻 </h2> </p>
+ ### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
