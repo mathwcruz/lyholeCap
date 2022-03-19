@@ -18,6 +18,11 @@
   <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.gif" width="1400px"/>
 </p>
 
+<br />
+
+## :star: Features
+- [x] List of cryptocurrencies containing data related to them
+
 ## 🚀 Technologies used:
 
 <p align="center">
