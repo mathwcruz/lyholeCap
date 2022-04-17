@@ -8,9 +8,9 @@
 
 <br>
 
-##  **<p> <h2  align="center">Front end application 📟 👨‍💻 </h2> </p>**
+<h2 align="center">Front end application 📟 👨‍💻 </h2>
 
-## <p> <h2 align="center">LyholeCap is an application developed with the aim of providing knowledge about the cryptocurrency market ₿</h2> </p>
+<h3 align="center">LyholeCap is an application developed with the aim of providing knowledge about the cryptocurrency market ₿</h3>
 
 # **Web Layout** 💻
 
@@ -34,6 +34,6 @@
 - **Coinmarketcap API** - https://coinmarketcap.com/api/ ✔️
 - **Moesif Origin & CORS Changer Plugin** (You need to release access to CORS) Here's a link to a Google Chrome plugin that helps with this task - https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc ✔️
 
- ## **<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>**
+<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>
 
- ### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
+<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
