@@ -13,7 +13,7 @@
 # **Web Layout** 💻
 
 <p align="center">
-  <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.gif" width="1400px"/>
+  <img src="https://github.com/mathwcruz/LyholeCap/blob/main/Demonstracao.gif" width="100%"/>
 </p>
 
 ## :star: Features
